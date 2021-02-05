@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.com/amitdev/lru-dict.svg?branch=master
-    :target: https://travis-ci.com/amitdev/lru-dict
+.. image:: https://travis-ci.com/congma/lru-dict.svg?branch=master
+    :target: https://travis-ci.com/congma/lru-dict
 
 LRU Dict
 ========
